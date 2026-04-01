@@ -1,0 +1,8 @@
+node_modules/
+.env
+.vscode/
+.history/
+Desktop.ini
+/docker-compose.override.yml
+/.docker/
+*.tar
