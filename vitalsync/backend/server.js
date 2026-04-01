@@ -9,4 +9,5 @@ app.get("/api/activities", (req, res) => {
     res.json([]);
 });
 
+app.listen(3000, () => console.log("VitalSync API on :3000. Update health feature"));
 app.listen(3000, () => console.log("VitalSync API on :3000. Add endpoint feature"));
